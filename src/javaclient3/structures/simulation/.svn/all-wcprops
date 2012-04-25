@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svnroot/java-player/!svn/ver/125/javaclient3/structures/simulation
+END
+PlayerSimulationCmd.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svnroot/java-player/!svn/ver/125/javaclient3/structures/simulation/PlayerSimulationCmd.java
+END
+PlayerSimulationPose2dReq.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svnroot/java-player/!svn/ver/125/javaclient3/structures/simulation/PlayerSimulationPose2dReq.java
+END
+PlayerSimulationPose3dReq.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svnroot/java-player/!svn/ver/125/javaclient3/structures/simulation/PlayerSimulationPose3dReq.java
+END
+PlayerSimulationData.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svnroot/java-player/!svn/ver/125/javaclient3/structures/simulation/PlayerSimulationData.java
+END

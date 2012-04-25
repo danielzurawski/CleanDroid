@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svnroot/java-player/!svn/ver/125/javaclient3/structures/wifi
+END
+PlayerWifiMacReq.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svnroot/java-player/!svn/ver/125/javaclient3/structures/wifi/PlayerWifiMacReq.java
+END
+PlayerWifiData.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svnroot/java-player/!svn/ver/125/javaclient3/structures/wifi/PlayerWifiData.java
+END
+PlayerWifiLink.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svnroot/java-player/!svn/ver/125/javaclient3/structures/wifi/PlayerWifiLink.java
+END
+PlayerWifiIwspyAddrReq.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svnroot/java-player/!svn/ver/125/javaclient3/structures/wifi/PlayerWifiIwspyAddrReq.java
+END

@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svnroot/java-player/!svn/ver/159/javaclient3/structures
+END
+PlayerOrientation3d.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svnroot/java-player/!svn/ver/152/javaclient3/structures/PlayerOrientation3d.java
+END
+PlayerSegment.java
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svnroot/java-player/!svn/ver/130/javaclient3/structures/PlayerSegment.java
+END
+PlayerMsgHdr.java
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svnroot/java-player/!svn/ver/125/javaclient3/structures/PlayerMsgHdr.java
+END
+PlayerDevAddr.java
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svnroot/java-player/!svn/ver/125/javaclient3/structures/PlayerDevAddr.java
+END
+PlayerPose2d.java
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svnroot/java-player/!svn/ver/152/javaclient3/structures/PlayerPose2d.java
+END
+PlayerConstants.java
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svnroot/java-player/!svn/ver/147/javaclient3/structures/PlayerConstants.java
+END
+PlayerPose3d.java
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svnroot/java-player/!svn/ver/130/javaclient3/structures/PlayerPose3d.java
+END
+PlayerColor.java
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svnroot/java-player/!svn/ver/125/javaclient3/structures/PlayerColor.java
+END
+PlayerPoint2d.java
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svnroot/java-player/!svn/ver/130/javaclient3/structures/PlayerPoint2d.java
+END
+PlayerBbox2d.java
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svnroot/java-player/!svn/ver/152/javaclient3/structures/PlayerBbox2d.java
+END
+PlayerPoint3d.java
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svnroot/java-player/!svn/ver/130/javaclient3/structures/PlayerPoint3d.java
+END
+PlayerBbox3d.java
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svnroot/java-player/!svn/ver/130/javaclient3/structures/PlayerBbox3d.java
+END

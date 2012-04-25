@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svnroot/java-player/!svn/ver/156/javaclient3/structures/audio
+END
+PlayerAudioMixerChannelDetail.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svnroot/java-player/!svn/ver/156/javaclient3/structures/audio/PlayerAudioMixerChannelDetail.java
+END
+PlayerAudioState.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svnroot/java-player/!svn/ver/156/javaclient3/structures/audio/PlayerAudioState.java
+END
+PlayerAudioSample.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svnroot/java-player/!svn/ver/156/javaclient3/structures/audio/PlayerAudioSample.java
+END
+PlayerAudioSeqItem.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svnroot/java-player/!svn/ver/156/javaclient3/structures/audio/PlayerAudioSeqItem.java
+END
+PlayerAudioSeq.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svnroot/java-player/!svn/ver/156/javaclient3/structures/audio/PlayerAudioSeq.java
+END
+PlayerAudioMixerChannelList.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svnroot/java-player/!svn/ver/156/javaclient3/structures/audio/PlayerAudioMixerChannelList.java
+END
+PlayerAudioMixerChannelListDetail.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svnroot/java-player/!svn/ver/156/javaclient3/structures/audio/PlayerAudioMixerChannelListDetail.java
+END
+PlayerAudioMixerChannel.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svnroot/java-player/!svn/ver/156/javaclient3/structures/audio/PlayerAudioMixerChannel.java
+END
+PlayerAudioWav.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svnroot/java-player/!svn/ver/156/javaclient3/structures/audio/PlayerAudioWav.java
+END
